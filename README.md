@@ -13,6 +13,8 @@ CMD+C to copy. Also, press "OPT" or "CMD" on a CE result to reveal more descript
 
 Initial rollout, could be buggy.
 
+v1.1: fix URL. Execute "MCC/MCS workflow:delcache" to re-download data.
+
 ## Further work:
 - Optimizing search and caching logic.
 - Categorizing craft essence.
