@@ -14,6 +14,7 @@ CMD+C to copy. Also, press "OPT" or "CMD" on a CE result to reveal more descript
 Initial rollout, could be buggy.
 
 v1.2: fix URL. Add properties. Execute "MCS workflow:delcache" to re-download data.
+
 v1.4: fix Quick Look (Press SHIFT or CMD+Y on an entry to preview). 
 
 ## Further work:
